@@ -92,7 +92,7 @@ jobs:
           use-python-cache: true
 
       - name: Remove local virtual env
-        run: rm -rf .venv
+        run: rm -r -force .venv
 
       - name: Build documentation 
         uses: ansys/actions/doc-build@fix/doc-build-without-python-cache
@@ -113,7 +113,7 @@ jobs:
           use-python-cache: true
 
       - name: Remove local virtual env
-        run: rm -rf .venv
+        run: rm -r -force .venv
 
       - name: Build documentation 
         uses: ansys/actions/doc-build@fix/doc-build-without-python-cache
