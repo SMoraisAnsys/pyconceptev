@@ -15,9 +15,17 @@ of EV powertrains.
         Learn how to install PyConceptEV in user mode and quickly
         begin using it.
 
+    .. grid-item-card:: Examples :material-regular:`play_arrow`
+        :padding: 2 2 2 2
+        :link: examples/index
+        :link-type: doc
+
+        Explore examples that show how to use PyConcept EV.
+
 
 .. toctree::
    :hidden:
    :maxdepth: 3
 
    getting_started
+   examples/index
