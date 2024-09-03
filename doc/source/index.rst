@@ -15,22 +15,6 @@ of EV powertrains.
         Learn how to install PyConceptEV in user mode and quickly
         begin using it.
 
-    .. grid-item-card:: User guide :material-regular:`menu_book`
-        :padding: 2 2 2 2
-        :link: user_guide
-        :link-type: doc
-
-        Learn how to configure a PyConceptEV session, get a token, and
-        create a client.
-
-    .. grid-item-card:: API reference :material-regular:`bookmark`
-        :padding: 2 2 2 2
-        :link: api_ref
-        :link-type: doc
-
-        Understand how the `Ansys ConceptEV API documentation <https://conceptev.ansys.com/api/docs>`_
-        provides for interacting programmatically with PyConcept EV.
-
     .. grid-item-card:: Examples :material-regular:`play_arrow`
         :padding: 2 2 2 2
         :link: examples/index
@@ -38,21 +22,10 @@ of EV powertrains.
 
         Explore examples that show how to use PyConcept EV.
 
-    .. grid-item-card:: Contribute :material-regular:`group`
-        :padding: 2 2 2 2
-        :link: contributing
-        :link-type: doc
-
-        Learn how to to contribute to the PyConceptEV codebase or documentation.
-
 
 .. toctree::
    :hidden:
    :maxdepth: 3
 
    getting_started
-   user_guide
-   api_ref
    examples/index
-   contributing
-   changelog
