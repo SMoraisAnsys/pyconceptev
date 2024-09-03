@@ -5,7 +5,7 @@ Getting started
 
 This section describes how to install PyConceptEV in user mode and
 quickly begin using it. If you are interested in contributing to PyConceptEV,
-see :ref:`ref_contributing` for information on installing in developer mode.
+see ref for information on installing in developer mode.
 
 
 Installation
